@@ -217,6 +217,30 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/cloth-config-11.1.136-fabric.pw.toml"
+hash = "44ab26c9918316072603116439da631bbb6ba60575ecf2ea446f69b5ad799a1f"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/architectury-9.2.14-fabric.pw.toml"
+hash = "e9aaf927010ae65eaf08486121863090412664e604f5ce5215290c023adc76e0"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/cloth-config-11.1.136-fabric.pw.toml"
+hash = "44ab26c9918316072603116439da631bbb6ba60575ecf2ea446f69b5ad799a1f"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/otyacraftengine-fabric-mc1.20-3.7.0-alpha.2.pw.toml"
+hash = "79dd9a5cefc2d9d5323cedee1c53bd952d6a8d93e13ac64bda50924a9a5dc76b"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/leahs-immersive-thunder.toml"
 hash = "a120d448e40dbd9f63f660539b0cefb7ab3519a49a89c88e6be615fdaa363d36"
 metafile = false

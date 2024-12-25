@@ -200,3 +200,23 @@ version = "IZhZbWUU"
 type = "modrinth"
 id = "sodium"
 version = "ygf8cVZg"
+
+[[mods]]
+type = "modrinth"
+id = "cloth-config"
+version = "2xQdCMyG"
+
+[[mods]]
+type = "modrinth"
+id = "architectury-api"
+version = "WbL7MStR"
+
+[[mods]]
+type = "modrinth"
+id = "cloth-config"
+version = "2xQdCMyG"
+
+[[mods]]
+type = "modrinth"
+id = "otyacraft-engine"
+version = "PyTCnFKv"

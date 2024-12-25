@@ -1,0 +1,17 @@
+name = "legacies-and-legends-1.20-v1.3.9"
+filename = "legacies-and-legends-1.20-v1.3.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rJvxBgdw/versions/DUUe3gWg/legacies-and-legends-1.20-v1.3.9.jar"
+hash = "84777ea89248d629bd9c2d8dbd5a90b5d2b456a947d6ecacdb7ce7a25ed41920e28248c05b84cc347e6b2bb685b9e04debfea645a70cfa1e5ef1002d962624d4"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "rJvxBgdw"
+version = "DUUe3gWg"

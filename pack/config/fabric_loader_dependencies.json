@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "overrides": {
+    "create": {
+      "-breaks": {
+        "sound_physics_remastered": "*"
+      }
+    },
+    "nvidium": {
+      "-depends": {
+        "sodium": "*"
+      },
+      "+depends": {
+        "embeddium": "*"
+      }
+    }
+  }
+}

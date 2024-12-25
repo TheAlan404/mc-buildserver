@@ -13,5 +13,5 @@ optional = false
 default = false
 
 [update.modrinth]
-mod-id = "bpRHnWUb"
+mod-id = "extra-mod-integrations"
 version = "IobIopQf"

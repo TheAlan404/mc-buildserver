@@ -13,5 +13,5 @@ optional = false
 default = false
 
 [update.modrinth]
-mod-id = "5cWCtJmf"
+mod-id = "furnish-furniture"
 version = "eGydI0NY"

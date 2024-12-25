@@ -13,5 +13,5 @@ optional = false
 default = false
 
 [update.modrinth]
-mod-id = "IAnP4np7"
+mod-id = "create-structures"
 version = "nqsTHZwx"

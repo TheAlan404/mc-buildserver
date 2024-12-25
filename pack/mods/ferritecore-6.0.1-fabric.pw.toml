@@ -13,5 +13,5 @@ optional = false
 default = false
 
 [update.modrinth]
-mod-id = "uXXizFIs"
+mod-id = "ferrite-core"
 version = "unerR5MN"

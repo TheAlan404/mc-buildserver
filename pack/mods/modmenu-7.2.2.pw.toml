@@ -13,5 +13,5 @@ optional = false
 default = false
 
 [update.modrinth]
-mod-id = "mOgUt4GM"
+mod-id = "modmenu"
 version = "lEkperf6"

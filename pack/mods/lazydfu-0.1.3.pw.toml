@@ -13,5 +13,5 @@ optional = false
 default = false
 
 [update.modrinth]
-mod-id = "hvFnDODi"
+mod-id = "lazydfu"
 version = "4SHylIO9"

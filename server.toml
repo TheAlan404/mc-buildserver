@@ -23,825 +23,180 @@ stop_command = ""
 
 [[mods]]
 type = "modrinth"
-id = "XH09j5fH"
-version = "j9o52aK6"
-
-[[mods]]
-type = "modrinth"
-id = "swbUV1cr"
-version = "lHRktt6S"
-
-[[mods]]
-type = "modrinth"
-id = "t3rZrJqo"
-version = "5HUrkJxh"
-
-[[mods]]
-type = "modrinth"
-id = "fALzjamp"
-version = "NHWYq9at"
-
-[[mods]]
-type = "modrinth"
-id = "Wnxd13zP"
-version = "hefSwtn6"
-
-[[mods]]
-type = "modrinth"
-id = "xv94TkTM"
-version = "6ipZLQSK"
-
-[[mods]]
-type = "modrinth"
-id = "Xg35A4rS"
-version = "NhBwWWsL"
-
-[[mods]]
-type = "modrinth"
-id = "QwxR6Gcd"
+id = "debugify"
 version = "6XDJoCks"
 
 [[mods]]
 type = "modrinth"
-id = "H7fshfpD"
-version = "SQuUb0Fo"
+id = "immediatelyfast"
+version = "H62RYZyG"
 
 [[mods]]
 type = "modrinth"
-id = "OZBR5JT5"
-version = "pA1enJAS"
-
-[[mods]]
-type = "modrinth"
-id = "9hx3AbJM"
-version = "9Jw4urvo"
-
-[[mods]]
-type = "modrinth"
-id = "4H6sumDB"
-version = "jQHHlQiL"
-
-[[mods]]
-type = "modrinth"
-id = "HSfsxuTo"
-version = "yRSH0sWM"
-
-[[mods]]
-type = "modrinth"
-id = "AhtxbnpG"
-version = "jAVkcXz6"
-
-[[mods]]
-type = "modrinth"
-id = "7vxePowz"
-version = "vXPVU0EZ"
-
-[[mods]]
-type = "modrinth"
-id = "E7ZFR7qk"
-version = "11wR6r8x"
-
-[[mods]]
-type = "modrinth"
-id = "ohNO6lps"
-version = "Qs8LaZLo"
-
-[[mods]]
-type = "modrinth"
-id = "hl5OLM95"
-version = "ahZqcuRr"
-
-[[mods]]
-type = "modrinth"
-id = "jSV9w0J5"
-version = "jDTECOMb"
-
-[[mods]]
-type = "modrinth"
-id = "5ZwdcRci"
-version = "eUAoLISt"
-
-[[mods]]
-type = "modrinth"
-id = "uKjKoMsj"
-version = "o64NJE0v"
-
-[[mods]]
-type = "modrinth"
-id = "nvQzSEkH"
+id = "jade"
 version = "Lvyx1o7I"
 
 [[mods]]
 type = "modrinth"
-id = "fThnVRli"
-version = "u3SyDUBp"
+id = "jade-addons-fabric"
+version = "DSkzT8Ma"
 
 [[mods]]
 type = "modrinth"
-id = "ufdDoWPd"
-version = "lhlLIEoV"
-
-[[mods]]
-type = "modrinth"
-id = "2ecVyZ49"
-version = "QFfBwOwT"
-
-[[mods]]
-type = "modrinth"
-id = "9ON3zv6e"
+id = "log-begone"
 version = "IknbjT7v"
 
 [[mods]]
 type = "modrinth"
-id = "3sjzyvGR"
-version = "lzpOpVRz"
+id = "presence-footsteps"
+version = "k0t6DSmw"
 
 [[mods]]
 type = "modrinth"
-id = "aC3cM3Vq"
-version = "mjuG4AYd"
+id = "create-steam-n-rails"
+version = "VFhdqLko"
 
 [[mods]]
 type = "modrinth"
-id = "ko8Qabo1"
-version = "W9lwYk5g"
+id = "xaeros-world-map"
+version = "VXCG8MnU"
 
 [[mods]]
 type = "modrinth"
-id = "LPjGiSO4"
-version = "QsRKydVt"
-
-[[mods]]
-type = "modrinth"
-id = "QQXAdCzh"
-version = "2Y3dASD3"
-
-[[mods]]
-type = "modrinth"
-id = "rcTfTZr3"
-version = "LjDXTyEn"
-
-[[mods]]
-type = "modrinth"
-id = "QAGBst4M"
-version = "qjSRRf2B"
-
-[[mods]]
-type = "modrinth"
-id = "RLzHAoZe"
-version = "evO5SKPR"
-
-[[mods]]
-type = "modrinth"
-id = "fuuu3xnx"
-version = "eh4IBlu2"
-
-[[mods]]
-type = "modrinth"
-id = "ZzjhlDgM"
-version = "AJ3IGl3n"
-
-[[mods]]
-type = "modrinth"
-id = "kkmrDlKT"
-version = "FZV63yhg"
-
-[[mods]]
-type = "modrinth"
-id = "DjLobEOy"
-version = "7ZwnSrVW"
-
-[[mods]]
-type = "modrinth"
-id = "II7t6llZ"
-version = "cNiETBJi"
-
-[[mods]]
-type = "modrinth"
-id = "AtHRJSUW"
-version = "vhAZw8EL"
-
-[[mods]]
-type = "modrinth"
-id = "NcUtCpym"
-version = "gJ5N7s4J"
-
-[[mods]]
-type = "modrinth"
-id = "JkSi2Fzx"
-version = "GWbYzvo3"
-
-[[mods]]
-type = "modrinth"
-id = "1eAoo2KR"
-version = "nYfjbBJd"
-
-[[mods]]
-type = "modrinth"
-id = "Ua7DFN59"
-version = "lscV1N5k"
-
-[[mods]]
-type = "modrinth"
-id = "XNlO7sBv"
-version = "1Z9HNWpj"
-
-[[mods]]
-type = "modrinth"
-id = "2BwBOmBQ"
-version = "qJTsmyiE"
-
-[[mods]]
-type = "modrinth"
-id = "z9Ve58Ih"
-version = "6LPrzuB0"
-
-[[mods]]
-type = "modrinth"
-id = "HjmxVlSr"
-version = "qLnQnqXS"
-
-[[mods]]
-type = "modrinth"
-id = "Z2mXHnxP"
-version = "FL88RLRu"
-
-[[mods]]
-type = "modrinth"
-id = "3dT9sgt4"
-version = "4c00pjbt"
-
-[[mods]]
-type = "modrinth"
-id = "fgmhI8kH"
-version = "tpKHcPzx"
-
-[[mods]]
-type = "modrinth"
-id = "6iTJugQR"
-version = "jJplEQRv"
-
-[[mods]]
-type = "modrinth"
-id = "bRFWnJ87"
-version = "WkJeqkhZ"
-
-[[mods]]
-type = "modrinth"
-id = "ulloLmqG"
+id = "another-furniture"
 version = "YKKY0UDo"
 
 [[mods]]
 type = "modrinth"
-id = "EsAfCjCV"
-version = "xcauwnEB"
+id = "continuity"
+version = "qGTDcjHM"
 
 [[mods]]
 type = "modrinth"
-id = "lhGA9TYQ"
-version = "WbL7MStR"
+id = "create-fabric"
+version = "7Ub71nPb"
 
 [[mods]]
 type = "modrinth"
-id = "b1ZV3DIJ"
-version = "mXJWSwbJ"
-
-[[mods]]
-type = "modrinth"
-id = "MBAkmtvl"
-version = "5sowswPx"
-
-[[mods]]
-type = "modrinth"
-id = "5srFLIaK"
-version = "YbafyWAu"
-
-[[mods]]
-type = "modrinth"
-id = "n6PXGAoM"
-version = "Ktw36uDC"
-
-[[mods]]
-type = "modrinth"
-id = "DAXbR0Wj"
-version = "AWPxi9Uu"
-
-[[mods]]
-type = "modrinth"
-id = "M08ruV16"
-version = "2cuVyTav"
-
-[[mods]]
-type = "modrinth"
-id = "bpii4Xsa"
-version = "zGytYDIS"
-
-[[mods]]
-type = "modrinth"
-id = "3azQ6p0W"
-version = "jMqsT2VF"
-
-[[mods]]
-type = "modrinth"
-id = "BAscRYKm"
-version = "pwyEaKDs"
-
-[[mods]]
-type = "modrinth"
-id = "t1VgucWo"
-version = "rLIi25kQ"
-
-[[mods]]
-type = "modrinth"
-id = "QC4wcUXZ"
-version = "J1toYNYJ"
-
-[[mods]]
-type = "modrinth"
-id = "9s6osm5g"
-version = "2xQdCMyG"
-
-[[mods]]
-type = "modrinth"
-id = "dQcfqGbl"
-version = "AyWecby3"
-
-[[mods]]
-type = "modrinth"
-id = "1IjD5062"
-version = "84Zs6tNo"
-
-[[mods]]
-type = "modrinth"
-id = "Xbc0uyRg"
-version = "h2HgGyvA"
-
-[[mods]]
-type = "modrinth"
-id = "IAnP4np7"
+id = "create-structures"
 version = "nqsTHZwx"
 
 [[mods]]
 type = "modrinth"
-id = "cl223EMc"
-version = "tBnivdbu"
-
-[[mods]]
-type = "modrinth"
-id = "l9fldtN4"
-version = "hwClzDIs"
-
-[[mods]]
-type = "modrinth"
-id = "CdRC4fyI"
-version = "qWJ0YcQq"
-
-[[mods]]
-type = "modrinth"
-id = "meZK2DCX"
-version = "J6b05anw"
-
-[[mods]]
-type = "modrinth"
-id = "TPAYeAOc"
-version = "V0Hz3q2W"
-
-[[mods]]
-type = "modrinth"
-id = "WEg59z5b"
-version = "QIKpMBgZ"
-
-[[mods]]
-type = "modrinth"
-id = "tpehi7ww"
-version = "d1sY0JqV"
-
-[[mods]]
-type = "modrinth"
-id = "DNuNq5bb"
-version = "C8aSNQk1"
-
-[[mods]]
-type = "modrinth"
-id = "QIt10I7z"
-version = "rXFz7ljL"
-
-[[mods]]
-type = "modrinth"
-id = "rYocd2LE"
-version = "BBsnGqrp"
-
-[[mods]]
-type = "modrinth"
-id = "nWSeFpQt"
-version = "RHfivqup"
-
-[[mods]]
-type = "modrinth"
-id = "rUgZvGzi"
-version = "AqXSvu6M"
-
-[[mods]]
-type = "modrinth"
-id = "WtcuxDNN"
-version = "kgiB4umm"
-
-[[mods]]
-type = "modrinth"
-id = "HQsBdHGd"
-version = "sJX8dbua"
-
-[[mods]]
-type = "modrinth"
-id = "mSQF1NpT"
-version = "7w60aZYA"
-
-[[mods]]
-type = "modrinth"
-id = "XpzGz7KD"
-version = "UvWjZ8tL"
-
-[[mods]]
-type = "modrinth"
-id = "sk9rgfiA"
-version = "kJkE9dfS"
-
-[[mods]]
-type = "modrinth"
-id = "fRiHVvU7"
+id = "emi"
 version = "7z8wc2Iv"
 
 [[mods]]
 type = "modrinth"
-id = "4I1XuqiY"
-version = "QoWmvvjv"
+id = "entityculling"
+version = "naHGCw23"
 
 [[mods]]
 type = "modrinth"
-id = "BVzZfTc1"
-version = "sfu0cEQ7"
-
-[[mods]]
-type = "modrinth"
-id = "NNAgCjsB"
-version = "QVn7Zkkn"
-
-[[mods]]
-type = "modrinth"
-id = "eiktJyw1"
-version = "robn2JQU"
-
-[[mods]]
-type = "modrinth"
-id = "O1XGs7ps"
-version = "xrUchinI"
-
-[[mods]]
-type = "modrinth"
-id = "bpRHnWUb"
+id = "extra-mod-integrations"
 version = "IobIopQf"
 
 [[mods]]
 type = "modrinth"
-id = "P7dR8mSH"
+id = "fabric-api"
 version = "P7uGFii0"
 
 [[mods]]
 type = "modrinth"
-id = "ZJTGwAND"
-version = "4wKvHwVW"
+id = "fabric-language-kotlin"
+version = "csX9r2wS"
 
 [[mods]]
 type = "modrinth"
-id = "Ha28R6CL"
-version = "B0fZidZi"
-
-[[mods]]
-type = "modrinth"
-id = "KJe6y9Eu"
-version = "sdV8aBn8"
-
-[[mods]]
-type = "modrinth"
-id = "4VYO7ir0"
-version = "KIzyS8hk"
-
-[[mods]]
-type = "modrinth"
-id = "WhbRG4iK"
+id = "fallingleaves"
 version = "flPXaySR"
 
 [[mods]]
 type = "modrinth"
-id = "uXXizFIs"
+id = "ferrite-core"
 version = "unerR5MN"
 
 [[mods]]
 type = "modrinth"
-id = "blWBX5n1"
-version = "thTIgDLT"
-
-[[mods]]
-type = "modrinth"
-id = "Ae6qoBj3"
-version = "G35Yb3qU"
-
-[[mods]]
-type = "modrinth"
-id = "5cWCtJmf"
+id = "furnish-furniture"
 version = "eGydI0NY"
 
 [[mods]]
 type = "modrinth"
-id = "8BmcQJ2H"
-version = "9VG3hx3F"
-
-[[mods]]
-type = "modrinth"
-id = "W4Ajthd2"
-version = "XepehZL4"
-
-[[mods]]
-type = "modrinth"
-id = "ZHHXRhiU"
+id = "iam-music-player"
 version = "p35CST3F"
 
 [[mods]]
 type = "modrinth"
-id = "mQdEVqSA"
-version = "c78PlReU"
-
-[[mods]]
-type = "modrinth"
-id = "F7wXag4i"
-version = "iYujfjuN"
-
-[[mods]]
-type = "modrinth"
-id = "YL57xq9U"
-version = "Bi9nvICq"
-
-[[mods]]
-type = "modrinth"
-id = "fQEb0iXm"
-version = "jiDwS0W1"
-
-[[mods]]
-type = "modrinth"
-id = "yBW8D80W"
-version = "mYl4RvKg"
-
-[[mods]]
-type = "modrinth"
-id = "hvFnDODi"
+id = "lazydfu"
 version = "4SHylIO9"
 
 [[mods]]
 type = "modrinth"
-id = "rJvxBgdw"
-version = "DUUe3gWg"
+id = "iris"
+version = "Bi9nvICq"
 
 [[mods]]
 type = "modrinth"
-id = "4XJZeZbM"
-version = "kD7KNe4P"
+id = "krypton"
+version = "jiDwS0W1"
 
 [[mods]]
 type = "modrinth"
-id = "1DWmBJVA"
-version = "xXv88P3U"
+id = "lambdynamiclights"
+version = "mYl4RvKg"
 
 [[mods]]
 type = "modrinth"
-id = "kDFtUgr8"
-version = "qi0xTBYv"
-
-[[mods]]
-type = "modrinth"
-id = "gvQqBUqZ"
+id = "lithium"
 version = "ZSNsJrPI"
 
 [[mods]]
 type = "modrinth"
-id = "XaDC71GB"
-version = "c3a6G6Pd"
-
-[[mods]]
-type = "modrinth"
-id = "gPCdW0Wr"
-version = "WyRIJsP5"
-
-[[mods]]
-type = "modrinth"
-id = "NRjRiSSD"
+id = "memoryleakfix"
 version = "5xvCCRjJ"
 
 [[mods]]
 type = "modrinth"
-id = "sGmHWmeL"
-version = "LGYOH4RN"
+id = "modernfix"
+version = "rBUcyf7J"
 
 [[mods]]
 type = "modrinth"
-id = "nmDcB62a"
-version = "qIu7zOc4"
-
-[[mods]]
-type = "modrinth"
-id = "mOgUt4GM"
+id = "modmenu"
 version = "lEkperf6"
 
 [[mods]]
 type = "modrinth"
-id = "twkfQtEc"
-version = "WpzxoawA"
-
-[[mods]]
-type = "modrinth"
-id = "F8BQNPWX"
-version = "dMGBsRgz"
-
-[[mods]]
-type = "modrinth"
-id = "nPZr02ET"
-version = "NANcEzKA"
-
-[[mods]]
-type = "modrinth"
-id = "Dpilnxtl"
-version = "zGemlmwK"
-
-[[mods]]
-type = "modrinth"
-id = "KuNKN7d2"
+id = "noisium"
 version = "erSJnRcq"
 
 [[mods]]
 type = "modrinth"
-id = "EIT1cuHa"
-version = "Q3H9Zkll"
+id = "sound-physics-remastered"
+version = "hxEab3Tk"
 
 [[mods]]
 type = "modrinth"
-id = "MPCX6s5C"
-version = "dnajXvv1"
-
-[[mods]]
-type = "modrinth"
-id = "ZXm8hVxN"
-version = "ita3zf5N"
-
-[[mods]]
-type = "modrinth"
-id = "SfMw2IZN"
-version = "J2fuM58R"
-
-[[mods]]
-type = "modrinth"
-id = "iu3upNjC"
-version = "PyTCnFKv"
-
-[[mods]]
-type = "modrinth"
-id = "ccKDOlHs"
-version = "zyOBB7J4"
-
-[[mods]]
-type = "modrinth"
-id = "tagwiZkJ"
-version = "UlzntUUQ"
-
-[[mods]]
-type = "modrinth"
-id = "tEJPA4Ty"
-version = "GWCykcY1"
-
-[[mods]]
-type = "modrinth"
-id = "GuE5FpvB"
-version = "A5YD9uS3"
-
-[[mods]]
-type = "modrinth"
-id = "G1hIVOrD"
-version = "UOdaYbhh"
-
-[[mods]]
-type = "modrinth"
-id = "Vo4uFiz0"
-version = "BQj5vN7r"
-
-[[mods]]
-type = "modrinth"
-id = "GmjmRQ0A"
-version = "EzpVcwYV"
-
-[[mods]]
-type = "modrinth"
-id = "qyVF9oeo"
-version = "MmKSrFU9"
-
-[[mods]]
-type = "modrinth"
-id = "l6YH9Als"
+id = "spark"
 version = "XGW2fviP"
 
 [[mods]]
 type = "modrinth"
-id = "LN9BxssP"
-version = "Ur02nrUT"
-
-[[mods]]
-type = "modrinth"
-id = "rOUBggPv"
-version = "7QdgprWI"
-
-[[mods]]
-type = "modrinth"
-id = "fFEIiSDQ"
-version = "138WY9xy"
-
-[[mods]]
-type = "modrinth"
-id = "Eldc1g37"
-version = "Gob4d0A8"
-
-[[mods]]
-type = "modrinth"
-id = "lWDHr9jE"
+id = "tectonic"
 version = "8JhzXwo0"
 
 [[mods]]
 type = "modrinth"
-id = "wwcspvkr"
-version = "k3qnR2WS"
-
-[[mods]]
-type = "modrinth"
-id = "9TbXlAut"
-version = "ameSyBNI"
-
-[[mods]]
-type = "modrinth"
-id = "4QrnfueM"
-version = "CrDLvf7Q"
-
-[[mods]]
-type = "modrinth"
-id = "5aaWibi9"
-version = "AHxQGtuC"
-
-[[mods]]
-type = "modrinth"
-id = "HsdNFinx"
-version = "nIwCCydr"
-
-[[mods]]
-type = "modrinth"
-id = "qmCh2PxS"
-version = "NsFBW8Mr"
-
-[[mods]]
-type = "modrinth"
-id = "qsSP2ZZ0"
+id = "voice-chat-interaction"
 version = "LX0uNyw4"
 
 [[mods]]
 type = "modrinth"
-id = "9eGKb6K1"
-version = "4U0LB5sz"
+id = "simple-voice-chat"
+version = "IZhZbWUU"
 
 [[mods]]
 type = "modrinth"
-id = "dlNu0RQY"
-version = "lsSmeonD"
-
-[[mods]]
-type = "modrinth"
-id = "o6qsdrrQ"
-version = "5J6WsndO"
-
-[[mods]]
-type = "modrinth"
-id = "IsCR9XVF"
-version = "2RcUI2dV"
-
-[[mods]]
-type = "modrinth"
-id = "ZvMtQlho"
-version = "XMIeWOv9"
-
-[[mods]]
-type = "modrinth"
-id = "HVnmMxH1"
-version = "D5fox3fg"
-
-[[mods]]
-type = "modrinth"
-id = "HVnmMxH1"
-version = "pAOQ9Amz"
-
-[[mods]]
-type = "modrinth"
-id = "kmwfVOoi"
-version = "nZpwS5Nf"
+id = "sodium"
+version = "ygf8cVZg"

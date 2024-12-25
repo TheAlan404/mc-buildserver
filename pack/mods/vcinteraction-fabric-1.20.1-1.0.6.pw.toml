@@ -13,5 +13,5 @@ optional = false
 default = false
 
 [update.modrinth]
-mod-id = "qsSP2ZZ0"
+mod-id = "voice-chat-interaction"
 version = "LX0uNyw4"

@@ -13,5 +13,5 @@ optional = false
 default = false
 
 [update.modrinth]
-mod-id = "P7dR8mSH"
+mod-id = "fabric-api"
 version = "P7uGFii0"
